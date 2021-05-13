@@ -1,6 +1,6 @@
 # Conflict-Example
 
 test
-test
-test
+test 
+chla ja bsdk
 test
